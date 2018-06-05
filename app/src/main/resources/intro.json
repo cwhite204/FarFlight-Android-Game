@@ -1,0 +1,18 @@
+[
+  {
+    "Name": "Introduction",
+    "Description": "Blablabla ths card will show the intro stuff",
+    "ID": 0,
+    "LeftSwipeAction": "Swipe to begin",
+    "RightSwipeAction": "Swipe to begin",
+    "lMorale": 0,
+    "lFoodWater": 0,
+    "lHealth": 0,
+    "lShelter": 0,
+    "rMorale": 0,
+    "rFoodWater": 0,
+    "rHealth": 0,
+    "rShelter": 0,
+    "Category": 0
+  }
+]
